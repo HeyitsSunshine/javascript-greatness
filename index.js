@@ -8,6 +8,8 @@
         <body>
             <script>
 
+                  
+            
                 <button>Press Me, Bitch</button>
 
                 const button = document.querySelector('button');
@@ -22,6 +24,7 @@
                 
 
                 /* Our JavaScript don' goes' right here! Happy Face */
+                
             </script>
         </body>
     </html>
