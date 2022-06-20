@@ -23,7 +23,7 @@
                 button.addEventListener('click', greet);
                 
 
-                /* Our JavaScript don' goes' right here! Happy Face */
+                /    * Our JavaScript don' goes' right here! Happy Face */
                 
             </script>
         </body>
